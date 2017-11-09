@@ -9,9 +9,7 @@ class Shoe
 
  def cobble
    puts ("Your shoe is as good as new!")
+   shoe.cobble
  end
- 
-end
 
-Shoe.condition = "new"
-Shoe.cobble
+end
