@@ -13,6 +13,3 @@ class Shoe
 
 end
 
-brand.condition = "new"
-brand.cobble
-
