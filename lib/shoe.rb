@@ -9,7 +9,10 @@ class Shoe
 
  def cobble
    puts ("Your shoe is as good as new!")
-   brand.cobble
  end
 
 end
+
+brand.condition = "new"
+brand.cobble
+
